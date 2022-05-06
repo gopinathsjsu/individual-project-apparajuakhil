@@ -16,6 +16,8 @@ Below are the steps to run: -
 - mvn exec:java -Dexec.mainClass=com.inventory.Billing
 - Enter the input path of the order file
 
+![image](https://github.com/gopinathsjsu/individual-project-apparajuakhil/blob/main/Images/compile.png)
+
 # Design Patterns: -
 
 The patterns used in this application are Singleton Pattern & Factory Method Pattern.
